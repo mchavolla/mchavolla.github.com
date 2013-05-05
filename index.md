@@ -1,46 +1,91 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Precalculus Final Project
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+This site was created to make it easy for you to download info and resources for your final project. Here is the [rubric](PreCalc%20Final%20Project%20Rubric%20-%20Final%20Version.doc) I will use to grade your project.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+### Econo-Me Project
 
-## Update Author Attributes
+Here is the project [description](Econo%20Me%20Finance%20Project.docx)
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+To learn about financial math like compound interest you can go to this [website](http://www.mathsisfun.com/money/compound-interest.html) or watch a [video](http://www.khanacademy.org/science/core-finance/interest-tutorial)
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+### Mathematics on the Internet Project
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+Here is the project [description](Reddit%20and%20Google%20Final%20Project.docx)
 
-    $ rm -rf _posts/core-samples
+### Learn to Code Project
 
-Here's a sample "posts list".
+Here is the project [description](Learn%20to%20Code%20in%20Python.docx)
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+Here are some helpful resources. Don't give up!:
 
-## To-Do
+- [Cheat Sheet](python%20CheatSheet.pdf)
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+- If you have never coded before, here is a great [presentation](IntrotoPython_Slides.pdf) from PyLadies
+
+- A [website](http://www.pythontutor.com/visualize.html) where you can walk through some coding examples and visualize what the computer is doing
+
+- Here are some online learn Python books where you can look things up: [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) , [Think Python](http://greenteapress.com/thinkpython/html/) , [Basic Python Syntax](http://www.tutorialspoint.com/python/python_basic_syntax.htm)
+ 
+### HIV/AIDS Statistics Project
+
+Here is the project [description](Statistics%20Project%20HIVAIDS.docx). If you want to look up data on a different topic you can go to this [website](http://www.gapminder.org/data/)
+
+The data sheets you'll need for the HIV/AIDS Project:
+
+- [HIV Prevalence](HIV%20Prevalence.xlsx)
+
+- [UNAIDS Report 2012](20121120_UNAIDS_Global_Report_2012_with_annexes_en.pdf)
+
+- [Annual AIDS Deaths](Annual%20AIDS%20Deaths.xlsx)
+
+### Climate Change Statistics Project
+
+Here is the project [description](Climate%20Change%20Final%20Project.docx)
+
+Data you can use:
+
+- [CO2 Levels](co2levels.xls)
+
+### College Tuition Statistics Project
+
+Here is the project [description](College%20Tuition%20Project.docx)
+
+### Space Debris Statistics Project
+
+Here is the project [description](Space%20Debris.docx)
+
+
+### RSA Encryption Project
+
+Here is the project [description](Encryption%20Project.docx)
+
+For this project and the project below, here is a link to a [website](http://nrich.maths.org/4350) that explains modular arithmetic.
+
+### Modular Arithmetic and Number Theory Project
+
+Here is the project [description](Modular%20arithmetic%20and%20Number%20Theory.docx)
+
+### Discover e Project
+
+Here is the project [description](Discovering%20e%20Final%20Project.pdf)
+
+### Explore Your Choice of Topic Project
+
+Here is the project [description](Explore%20Topics%20Overview.docx)
+
+Here are some topic [suggestions](Exploring%20Topics%20Suggestions.docx) with helpful links.
+
+----------------------------------------
+
+Here is the [powerpoint](FinalProjectOverview%20MC.pptx) that has a slide on the Difficulty of Math and the Level of Support for each project. I will be grading you on selecting a project appropriate for your level.
+
+Start working on your project soon. Remember that it's due:
+### Thursday, May 16.
+
+Please email me if you have questions: mchavolla@everestphs.org
 
 
