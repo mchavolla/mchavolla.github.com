@@ -4,6 +4,9 @@ title: Precalculus Final Project
 ---
 {% include JB/setup %}
 
+<img src="turtle_chicken.gif" />
+---
+
 This site was created to make it easy for you to download info and resources for your final project. Here is the [rubric](PreCalc%20Final%20Project%20Rubric%20-%20Final%20Version.doc) I will use to grade your project.
 
 ### Econo-Me Project
