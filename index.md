@@ -9,7 +9,6 @@ title: Precalculus Final Project
 
 ### HERE IS AN [EXAMPLE](GDPExample.xlsx) OF THE TYPE OF EXPLANATIONS I EXPECT FOR YOUR STATISTICS PROJECTS. PLEASE EMAIL ME WITH QUESTIONS!!
 
-
 This site was created to make it easy for you to download info and resources for your final project. Here is the [rubric](PreCalc%20Final%20Project%20Rubric%20-%20Final%20Version.doc) I will use to grade your project.
 
 ### Econo-Me Project
